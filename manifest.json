@@ -1,0 +1,9 @@
+{
+  "name": "Tropa Runner",
+  "short_name": "Runner",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "description": "Um jogo simples estilo runner para tropa!",
+  "icons": []
+}
